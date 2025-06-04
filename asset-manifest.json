@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.e6c13ad2.css",
+    "main.js": "/website/static/js/main.6ef99038.js",
+    "static/js/453.bb828c5d.chunk.js": "/website/static/js/453.bb828c5d.chunk.js",
+    "static/media/virtual-assitance.png": "/website/static/media/virtual-assitance.ec39724dfb920c05b083.png",
+    "static/media/rock-paper-scissor.png": "/website/static/media/rock-paper-scissor.602a399bdba9be31f6de.png",
+    "static/media/chatbot.png": "/website/static/media/chatbot.e062b705d97dcec84646.png",
+    "static/media/todolist.png": "/website/static/media/todolist.362001c9daf71ffe0ef5.png",
+    "static/media/memory-game.png": "/website/static/media/memory-game.a2750794348c7028ef48.png",
+    "static/media/currency-convetor.png": "/website/static/media/currency-convetor.7e85a6d3f5b7ae33fa7c.png",
+    "static/media/weather-app.png": "/website/static/media/weather-app.729f52d492738dc3f885.png",
+    "index.html": "/website/index.html",
+    "main.e6c13ad2.css.map": "/website/static/css/main.e6c13ad2.css.map",
+    "main.6ef99038.js.map": "/website/static/js/main.6ef99038.js.map",
+    "453.bb828c5d.chunk.js.map": "/website/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6ef99038.js"
+  ]
+}
