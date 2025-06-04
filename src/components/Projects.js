@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion';
-import { Link } from "react-router-dom";
+
 
 
 const Projects = ({ pro }) => {
@@ -27,7 +27,7 @@ const Projects = ({ pro }) => {
                                 <p class="card-text">{pro.desc}</p>
                                 <p class="card-text">Technology : {pro.tech}</p>
                                 <p class="card-text"><small class="text-body-secondary">Last update on {pro.updated}</small></p>
-                                <button type="button" class="btn btn-success"><Link to={pro.link} className='text-black-50 text-decoration-none'>View Project</Link></button>
+                                <button type="button" class="btn btn-success"><a href={pro.link} target="_blank" rel="noopener noreferrer" className='text-black-50 text-decoration-none'>View Project</a></button>
                             </div>
                         </div>
                     </div>
